@@ -2,14 +2,16 @@
 
 Live site: https://frontendtest-indol.vercel.app
 
-## How to Build
+## How to Run the Project
 
 From the project root:
 
 1. Install dependencies: `npm install`
-2. Build the project: `npm run build`
+2. Run the app in development mode: `npm run dev`
+3. Build the project for production: `npm run build`
 
 This will create a production build in the `dist` folder.
+
 
 # Chess.com - Front End Programming Challenge
 
