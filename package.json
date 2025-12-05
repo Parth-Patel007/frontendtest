@@ -2,5 +2,29 @@
   "name": "chess-frontend-tests",
   "description": "FrontEnd Programming Challenge for Chess.com",
   "license": "MIT",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parth-Patel007/frontendtest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Parth-Patel007/frontendtest/issues"
+  },
+  "homepage": "https://github.com/Parth-Patel007/frontendtest#readme",
+  "dependencies": {
+    "vue": "^3.5.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.2",
+    "vite": "^7.2.6"
+  }
 }
