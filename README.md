@@ -1,3 +1,16 @@
+## Live Demo
+
+Live site: https://frontendtest-indol.vercel.app
+
+## How to Build
+
+From the project root:
+
+1. Install dependencies: `npm install`
+2. Build the project: `npm run build`
+
+This will create a production build in the `dist` folder.
+
 # Chess.com - Front End Programming Challenge
 
 Welcome to the [Chess.com](https://chess.com) front end programming challenge!
